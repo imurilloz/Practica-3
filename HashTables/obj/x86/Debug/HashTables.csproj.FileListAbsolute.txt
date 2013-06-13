@@ -1,0 +1,5 @@
+C:\Users\Isaac\Documents\Projects\Practica No. 3\Practica-3-\HashTables\HashTables\bin\Debug\HashTables.exe.config
+C:\Users\Isaac\Documents\Projects\Practica No. 3\Practica-3-\HashTables\HashTables\bin\Debug\HashTables.exe
+C:\Users\Isaac\Documents\Projects\Practica No. 3\Practica-3-\HashTables\HashTables\bin\Debug\HashTables.pdb
+C:\Users\Isaac\Documents\Projects\Practica No. 3\Practica-3-\HashTables\HashTables\obj\x86\Debug\HashTables.exe
+C:\Users\Isaac\Documents\Projects\Practica No. 3\Practica-3-\HashTables\HashTables\obj\x86\Debug\HashTables.pdb
